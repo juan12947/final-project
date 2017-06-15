@@ -1,0 +1,64 @@
+/*UNIVERSAL*/
+/*body{
+    background-image: url(../img/halamadrid.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}*/
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #66a3ff;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: inline-block;
+    padding: 15px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+}
+
+.madrid {
+    background-image: url(../img/santiago.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.text-center {
+    color: #000099;
+    font-size: 25px;
+}
+
+.footer {
+    background-color: #003366;
+    height: 150px;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
