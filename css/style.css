@@ -42,7 +42,7 @@ li a:hover {
     height: 500px;
 }
 
-h1 {
+.real {
     text-align: center;
     color: black;
 }
@@ -52,13 +52,88 @@ h1 {
     font-size: 25px;
 }
 
+.rivalries {
+    text-align: center;
+}
+
+#barca {
+    float: left;
+    width: 50%;
+}
+
+.barcelona {
+    text-align: center;
+}
+
+#atletico {
+    float: right;
+    width: 50%;
+}
+
+.atletico-madrid {
+    text-align: center;
+}
+
+.el-classico {
+    width: 75%;
+    height: 55%;
+    margin-left: 9%;
+}
+
+.clasico-p {
+    text-align: justify;
+    width: 70%;
+    margin-left: 11%;
+}
+
+.derby {
+    width: 50%;
+    height: 55%;
+}
+
+.derby-p {
+    text-align: justify;
+}
+
 .footer {
     background-color: #003366;
     height: 150px;
+    padding: 16px;
+    clear: both;
+}
+
+.social-media {
+    text-align: center;
 }
 
 .copyright {
     text-align: center;
     color: white;
     font-size: 25px;
+}
+#facebook {
+    color: white;
+}
+
+#twitter {
+    color: white;
+}
+
+#instagram {
+    color: white;
+}
+
+#facebook:hover {
+    color: #0000ff;
+    cursor: wait;
+}
+
+#twiter:hover {
+    color: #4db8ff;
+    cursor: wait;
+}
+
+#instagram:hover {
+    color: #cc0000;
+    cursor: wait;
 }

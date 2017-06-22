@@ -1,0 +1,57 @@
+.cltrophies {
+    background-image: url("../img/cltrophies.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    margin-left: 15%;
+}
+
+/*.total-trophies {
+    background-image: url("../img/totaltrophies.jpg)"
+}*/
+
+.column {
+    height: 600px;
+    width: 33%;
+    float: left;
+    margin-top: 10%;
+    margin-bottom: 14%;
+}
+
+.lisbon {
+    text-align: center;
+}
+
+.lisbon-final {
+    text-align: justify;
+    width: 70%;
+    margin-left: 18%;
+}
+
+.milan {
+    text-align: center;
+}
+
+.milan-final {
+    text-align: justify;
+    width: 70%;
+    margin-left: 18%;
+}
+
+.cardiff {
+    text-align: center;
+}
+
+.cardiff-final {
+    text-align: justify;
+    width: 70%;
+    margin-left: 18%;
+}
+
+iframe {
+    margin-left: 15%;
+}
+
+#col-1 {
+    
+}
